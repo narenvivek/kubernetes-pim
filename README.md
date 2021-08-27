@@ -1,4 +1,4 @@
-# Addressing Authorization and Privilege Escalation issues in Kubernetes Cluster
+# Addressing Authorization and Privilege Escalation issues in a Kubernetes Cluster
 
 Managing privileges in a Kubernetes cluster is hard! Why? If you spin-up a plain vanilla cluster, you get:
 
